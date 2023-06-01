@@ -13,7 +13,7 @@ Code will be released soon.
 @article{2023NeuralLerPlane,
   title={Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues},
   author={Chen Yang and Kailing Wang and Yuehao Wang and Xiaokang Yang and Wei Shen},
-  journal={-1},
+  journal={https://arxiv.org/abs/2305.19906},
   year={2023}
 }
 ```
